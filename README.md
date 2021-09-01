@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola, I'm errorrrr404 because i don't want to be found! 👋
 
-<!--
-**errorrrr404/errorrrr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a learner
+- 🌱 I’m currently learning everything!
+- 😄 Pronouns: she/her
+<!--- ⚡ Fun fact:--> 
+ 
+🐦 [twitter][twitter] **|** 
+<!--📷 [instagram][instagram] **|** -->
+<!--👔 [linkedin][linkedin]-->
 
-Here are some ideas to get you started:
+[twitter]: https://twitter.com/itsTanV
+<!--[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/bradgarropy-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
