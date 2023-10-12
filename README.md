@@ -1,4 +1,4 @@
-### Hola, I'm errorrrr404, because i can't be found! 👋
+### Hola, I'm Tanvi 👋
 
 ## I'm a learner
 - 🌱 I’m currently learning everything!
